@@ -1,0 +1,376 @@
+{
+    "BIOTECH": [
+        {
+            "ticker": "TTNP",
+            "name": "Titan Pharmaceuticals",
+            "riskLevel": 9,
+            "description": "makes implant device that dispenses suboxone",
+            "field": "PHARMA",
+            "keywords": [
+                "pharma",
+                "high-risk",
+                "concerning",
+                "volatile"
+            ]
+        },
+        {
+            "ticker": "NVAX",
+            "name": "Novavax",
+            "riskLevel": 6,
+            "description": "leading contender for a COVID vaccine",
+            "field": "VACCINE",
+            "keywords": [
+                "vaccine",
+                "covid",
+                "high-profile",
+                "established",
+                "volatile"
+            ]
+        },
+        {
+            "ticker": "PDEX",
+            "name": "ProDex",
+            "riskLevel": 3,
+            "description": "manufacture surgical motors",
+            "field": "MEDTECH",
+            "keywords": [
+                "surgery",
+                "tech",
+                "motorized",
+                "established",
+                "promising",
+                "large moat"
+            ]
+        },
+        {
+            "ticker": "VRTX",
+            "name": "Vertex",
+            "riskLevel": 4,
+            "description": "general pharmaceutical company specializing in cystic fibrosis",
+            "field": "PHARMA",
+            "keywords": [
+                "pharma",
+                "orphan drugs",
+                "cystic firbosis",
+                "established",
+                "rational",
+                "government"
+            ]
+        },
+        {
+            "ticker": "NBIX",
+            "name": "Neurocrine Biosciences",
+            "riskLevel": 5,
+            "description": "specializes in treating difficult neurological and endocrine-based conditions",
+            "field": "PHARMA",
+            "keywords": [
+                "pharma",
+                "specialized",
+                "neurology",
+                "endocrine",
+                "research",
+                "hormone"
+            ]
+        },
+        {
+            "ticker": "INFU",
+            "name": "Infu System Holdings",
+            "riskLevel": 5,
+            "description": "makes insulin, nerve block, and oncology infusion",
+            "field": "MEDTECH",
+            "keywords": [
+                "infusions",
+                "diabetes",
+                "pain",
+                "cancer"
+            ]
+        },
+        {
+            "ticker": "CODX",
+            "name": "Co-Diagnostics",
+            "riskLevel": 8,
+            "description": "makes COVID test",
+            "field": "MEDTECH",
+            "keywords": [
+                "COVID-19",
+                "coronavirus",
+                "bat flu",
+                "testing",
+                "diagnostics"
+            ]
+        },
+        {
+            "ticker": "DXCM",
+            "name": "Dexcom",
+            "riskLevel": 4,
+            "description": "makes device that manages glucose levels",
+            "field": "MEDTECH",
+            "keywords": [
+                "diabetes",
+                "device",
+                "monitoring",
+                "high pe"
+            ]
+        },
+        {
+            "ticker": "GDRX",
+            "name": "GoodRx Holdings",
+            "riskLevel": 6,
+            "description": "Dictates drug pricing, liaison between pharmaceuticals and consumers.",
+            "field": "PHARMA",
+            "keywords": [
+                "drug",
+                "pricing",
+                "find",
+                "high pe",
+                "new",
+                "online",
+                "retail"
+            ]
+        },
+        {
+            "ticker": "FLGT",
+            "name": "Fulgent Genetics",
+            "riskLevel": 5,
+            "description": "COVID test and genetic screening",
+            "field": "MEDTECH",
+            "keywords": [
+                "COVID-19",
+                "coronavirus",
+                "genes",
+                "high pe",
+                "screening"
+            ]
+        },
+        {
+            "ticker": "PODD",
+            "name": "Insulet Corporation",
+            "riskLevel": 5,
+            "description": "makes insulin delivery pumps",
+            "field": "MEDTECH",
+            "keywords": [
+                "diabetes",
+                "device",
+                "monitoring",
+                "high pe",
+                "insulin",
+                "apparent growth",
+                "established"
+            ]
+        },
+        {
+            "ticker": "NVCR",
+            "name": "Novocure",
+            "riskLevel": 7,
+            "description": "has innovative oncology therapies in phases II & III",
+            "field": "MEDTECH",
+            "keywords": [
+                "cancer",
+                "oncology",
+                "drugs",
+                "electric fields",
+                "therapy",
+                "risky"
+            ]
+        }
+    ],
+    "FOREIGN BIOTECH": [],
+    "INTT": [
+        {
+            "ticker": "FRO",
+            "name": "Frontline Ltd.",
+            "riskLevel": 6,
+            "description": "operates, buys, and sells oil tankers",
+            "field": "OIL TRANSPORT",
+            "keywords": [
+                "oil",
+                "value",
+                "dividends",
+                "large",
+                "energy"
+            ]
+        },
+        {
+            "ticker": "BLOK",
+            "name": "Amplify Transformation Data Sharing ETF",
+            "riskLevel": 5,
+            "description": "diverse block-chain ETF",
+            "field": "ETF BLOCKCHAIN",
+            "keywords": [
+                "ETF",
+                "block chain",
+                "big upside",
+                "foreign backed"
+            ]
+        },
+        {
+            "ticker": "LRCX",
+            "name": "Lam Research Corporation",
+            "riskLevel": 3,
+            "description": "Makes machinery used in semiconductor processing",
+            "field": "TECH MICROCHIPS",
+            "keywords": [
+                "chips",
+                "semiconductors",
+                "tech",
+                "microprocessors"
+            ]
+        },
+        {
+            "ticker": "JEF",
+            "name": "Jefferies Financial Group",
+            "riskLevel": 5,
+            "description": "Creating wealth - $5.9B market cap",
+            "field": "FINANCIAL MANAGEMENT",
+            "keywords": [
+                "epstein",
+                "wealth",
+                "financials",
+                "advising"
+            ]
+        }
+    ],
+    "ENERGY": [
+        {
+            "ticker": "OXY",
+            "name": "Occidental Energy (?)",
+            "riskLevel": 5,
+            "field": "ENERGY OIL",
+            "keywords": [
+                "oil",
+                "energy",
+                "drilling",
+                "debt",
+                "depressed"
+            ]
+        },
+        {
+            "ticker": "FRO",
+            "name": "Frontline",
+            "riskLevel": "5",
+            "field": "TRANSPORT OIL",
+            "keywords": [
+                "oil",
+                "picks and shovels",
+                "transport",
+                "debt",
+                "depressed",
+                "bermuda",
+                "gulf"
+            ]
+        },
+        {
+            "ticker": "STNG",
+            "name": "Scorpio Tankers",
+            "riskLevel": 4,
+            "description": "monaco based oil tanker company",
+            "field": "OIL",
+            "keywords": [
+                "oil",
+                "transport",
+                "fleet",
+                "tankers"
+            ]
+        },
+        {
+            "ticker": "XOM",
+            "name": "ExxonMobil",
+            "riskLevel": 2,
+            "description": "massive multinational oil conglomerate",
+            "field": "OIL",
+            "keywords": [
+                "oil",
+                "gas",
+                "production",
+                "sale",
+                "texas"
+            ]
+        }
+    ],
+    "ALL": [
+        {
+            "ticker": "AMGN"
+        },
+        {
+            "ticker": "BLOK"
+        },
+        {
+            "ticker": "BP"
+        },
+        {
+            "ticker": "CODX"
+        },
+        {
+            "ticker": "CRIS"
+        },
+        {
+            "ticker": "DXCM"
+        },
+        {
+            "ticker": "FLGT"
+        },
+        {
+            "ticker": "FRO"
+        },
+        {
+            "ticker": "GDRX"
+        },
+        {
+            "ticker": "GILD"
+        },
+        {
+            "ticker": "HTBX"
+        },
+        {
+            "ticker": "INFU"
+        },
+        {
+            "ticker": "JEF"
+        },
+        {
+            "ticker": "JKS"
+        },
+        {
+            "ticker": "LRCX"
+        },
+        {
+            "ticker": "MESO"
+        },
+        {
+            "ticker": "MRNA"
+        },
+        {
+            "ticker": "NBIX"
+        },
+        {
+            "ticker": "NVAX"
+        },
+        {
+            "ticker": "NVCR"
+        },
+        {
+            "ticker": "OXY"
+        },
+        {
+            "ticker": "PDEX"
+        },
+        {
+            "ticker": "PODD"
+        },
+        {
+            "ticker": "STNG"
+        },
+        {
+            "ticker": "TTNP"
+        },
+        {
+            "ticker": "USO"
+        },
+        {
+            "ticker": "VRTX"
+        },
+        {
+            "ticker": "XOM"
+        }
+    ]
+}
